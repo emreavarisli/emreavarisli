@@ -19,7 +19,7 @@
 
 <p>
 
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreavarisli&show_icons=true&theme=dark&locale=en&layout=compact" alt="emreavarisli" />
-<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=emreavarisli&show_icons=true&theme=dark&locale=en" alt="emreavarisli" />
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=emreavarisli&show_icons=true&theme=dark&locale=en&layout=compact" alt="emreavarisli" />
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=emreavarisli&show_icons=true&theme=dark&locale=en" alt="emreavarisli" />
 
 </p>
