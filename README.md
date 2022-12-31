@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan Emre Avarisli</h1><br>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **C# and Java**
+- 🌱 I’m currently learning **Flutter & Dart**
 
 - 📫 How to reach me **emreavarisli@gmail.com**
 
