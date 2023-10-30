@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan Emre Avarisli</h1><br>
 
-- 🌱 I’m currently learning **VueJS & Flutter & Dart**
+- 🌱 I’m currently learning **.NET & NestJS & Flutter**
 
 - 📫 How to reach me **emreavarisli@gmail.com**
 
