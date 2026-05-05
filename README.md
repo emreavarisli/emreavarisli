@@ -17,10 +17,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,jquery,git,linux,postgres,geoserver" />
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emreavarisli&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emreavarisli&layout=compact&theme=dark)
