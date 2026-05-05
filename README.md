@@ -16,12 +16,12 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,jquery,git,linux,postgres" />
-  <img src="https://raw.githubusercontent.com/geoserver/geoserver/main/doc/en/user/source/images/geoserver-logo.png" height="45"/>
+  <img src="https://geoserver.org/img/geoserver-logo.png" height="45"/>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emreavarisli&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreavarisli&layout=compact&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emreavarisli&show_icons=true&theme=dark&cache_seconds=1800" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreavarisli&layout=compact&theme=dark&cache_seconds=1800" />
 </p>
