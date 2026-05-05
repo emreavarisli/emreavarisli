@@ -1,58 +1,27 @@
 <h1 align="center">Hi 👋, I'm Hasan Emre Avarisli</h1>
 
-<p align="center">
-  💼 Full Stack Developer | 🌍 GIS Developer
-</p>
-
----
-
-### 👨‍💻 About Me
-
 - 💼 I’m currently working at **MOSK Bilişim Teknolojileri**
-- ⚙️ I actively use **.NET, GeoServer, jQuery**
-- 🖥️ I handle **server management & deployment processes**
-- 📫 Reach me: **emreavarisli@gmail.com**
+- 🌱 I’m actively working with **.NET, GeoServer & jQuery**
+- 🖥️ I also handle **server management & deployment processes**
+- 📫 How to reach me **emreavarisli@gmail.com**
 
----
-
-### 🔗 Connect with me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/hasan-emre-avarisli-22a650211" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
 
----
-
-### 🧰 Languages and Tools
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,jquery,git,linux,postgres" />
   <img src="https://raw.githubusercontent.com/geoserver/geoserver/main/doc/en/user/source/images/geoserver-logo.png" height="45"/>
 </p>
 
----
-
-### 📊 GitHub Stats
+<h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emreavarisli&show_icons=true&theme=dark" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreavarisli&layout=compact&theme=dark" />
-</p>
-
----
-
-### 🚀 What I Do
-
-- 🌍 GIS & Map-based applications (GeoServer)
-- ⚙️ Backend development with .NET
-- 🎯 Frontend with jQuery
-- 🖥️ Linux server management
-- 🔄 Deployment & DevOps basics
-
----
-
-<p align="center">
-  ⭐️ From <b>emreavarisli</b>
 </p>
