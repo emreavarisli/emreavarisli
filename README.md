@@ -16,7 +16,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,jquery,git,linux,postgres" />
-  <img src="https://raw.githubusercontent.com/geoserver/geoserver/main/src/web/app/img/logo.png" height="40"/>
+  <<img src="https://geoserver.org/img/geoserver-logo.png" height="35"/>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
