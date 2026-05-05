@@ -20,7 +20,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
+### GitHub Stats
+
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emreavarisli&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreavarisli&amp;layout=compact&amp;theme=dark&amp;hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emreavarisli&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreavarisli&layout=compact&theme=dark" height="160"/>
 </p>
