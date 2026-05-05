@@ -15,8 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,jquery,git,linux,postgres" />
-  <img src="https://raw.githubusercontent.com/geoserver/geoserver/main/src/web/app/img/logo.png" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,jquery,git,linux,postgres,geoserver" />
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
